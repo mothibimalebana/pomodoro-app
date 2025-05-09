@@ -1,5 +1,5 @@
 # Pomodoro-App
- 1.Decide on the task to be done/n
+ 1.Decide on the task to be done
  2.Set the pomodoro timer (typically for 25 minutes).
  3.Work on the task.
  4.End work when the timer rings and take a short break (typically 5–10 minutes).
