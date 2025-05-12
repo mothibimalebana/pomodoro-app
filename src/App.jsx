@@ -1,14 +1,14 @@
 import './App.css'
-import Home from './pages/Home'
-import { Routes, Route, Link } from 'react-router-dom';
+import Clock from './pages/Clock';
+import { Routes, Route } from 'react-router-dom';
 
 function App() {
 
   return (
     <>
-    <div className="app h-full">
+    <div className="app flex h-full">
       <Routes>
-        <Route path="/" element={<Home />} />
+        <Route path="/" element={<Clock />} />
       </Routes>
     </div>
     </>
