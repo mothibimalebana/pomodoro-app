@@ -4,7 +4,7 @@ const Clock = () => {
     return(
         <>
             <div className="home flex bg-[#C36868] justify-center items-center w-full  h-full">
-                <div className="clock w-4/10 h-8/10">
+                <div className="clock w-8/10 h-8/10 md:w-4/10">
                     <div className="screen">
                         <div className="top"></div>
                         <div className="middle bottom"></div>
